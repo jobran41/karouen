@@ -1,0 +1,1 @@
+[27-Dec-2016 14:15:14 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/streaweb/public_html/jadidawp2/wp-content/themes/theme101/index.php on line 1

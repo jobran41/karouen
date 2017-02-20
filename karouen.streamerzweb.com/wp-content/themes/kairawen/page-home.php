@@ -220,7 +220,7 @@
 			<?php echo do_shortcode( '[contact-form-7 id="21" title="Formulaire de contact 1"]' ); ?>
 	     	</div>
 	     	<div class="uk-width-1-2 rightform"> 
-	     		<img src="<?php  bloginfo('template_url');  ?>/img/map.png" class="img-responsive center-block" width="">
+                    <div id="map"></div>
 	     	</div>
 	     </div>
 	</div>     
